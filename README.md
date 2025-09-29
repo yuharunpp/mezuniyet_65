@@ -1,2 +1,3 @@
-# mezuniyet_65
-  çöplerin doğada çözünme süresini hesaplayan veya bilgilendiren bot  
+## Projemin fikri:
+> çöplerin doğada çözünme süresini hesaplayan veya bilgilendiren bot 
+
